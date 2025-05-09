@@ -182,5 +182,3 @@ finance-microservices/
 * [ ] Add user profile management (optional)
 
 ---
-
-Would you like individual README templates for each microservice (like `auth-service/README.md`, etc.) too?
